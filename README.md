@@ -32,7 +32,3 @@ To use the Pomodoro Clock, follow these steps:
 4. The timer will count down your work session, then automatically switch to the break timer when the session ends.
 5. You can pause the timer at any time by clicking the "Pause" button.
 6. To reset the timers and settings, click the "Reset" button.
-
-## Contributing
-
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
